@@ -1,0 +1,11 @@
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\bin\Debug\net8.0\GroupAssignment1.deps.json
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\bin\Debug\net8.0\GroupAssignment1.dll
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\bin\Debug\net8.0\GroupAssignment1.pdb
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.AssemblyInfoInputs.cache
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.AssemblyInfo.cs
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.dll
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\refint\GroupAssignment1.dll
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.pdb
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\ref\GroupAssignment1.dll
