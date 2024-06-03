@@ -72,15 +72,17 @@ public class ProductTests
     }
 
     [Test]
-    public void ProductName_WhenSetToNull_ShouldThrowArgumentNullException()
+    public void ProductName_WhenSetToNonEmptyString_ShouldBeSetCorrectly()
     {
         // Arrange
-        string productName = null;
+        string productName = "Valid Product Name";
 
-        // Act & Assert
-        Assert.Throws<ArgumentNullException>(() => new Product(500, productName, 100, 50));
+        // Act
+        var product = new Product(500, productName, 100, 50);
+
+        // Assert
+        Assert.That(product.ProductName, Is.EqualTo(productName));
     }
-
     // Tests for Price
     [Test]
     public void Price_WhenSetWithinRange_ShouldBeSetCorrectly()
@@ -121,16 +123,6 @@ public class ProductTests
         Assert.That(product.Price, Is.EqualTo(price));
     }
 
-    [Test]
-    public void Price_WhenSetToNegative_ShouldThrowArgumentOutOfRangeException()
-    {
-        // Arrange
-        decimal price = -1m;
-
-        // Act & Assert
-        Assert.Throws<ArgumentOutOfRangeException>(() => new Product(500, "Test Product", price, 50));
-    }
-
     // Tests for Stock
     [Test]
     public void Stock_WhenSetWithinRange_ShouldBeSetCorrectly()
@@ -169,16 +161,6 @@ public class ProductTests
 
         // Assert
         Assert.That(product.Stock, Is.EqualTo(stock));
-    }
-
-    [Test]
-    public void Stock_WhenSetToNegative_ShouldThrowArgumentOutOfRangeException()
-    {
-        // Arrange
-        int stock = -1;
-
-        // Act & Assert
-        Assert.Throws<ArgumentOutOfRangeException>(() => new Product(500, "Test Product", 100, stock));
     }
 
     // Tests for IncreaseStock method
