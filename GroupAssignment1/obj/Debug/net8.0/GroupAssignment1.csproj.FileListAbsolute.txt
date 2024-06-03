@@ -9,3 +9,6 @@ C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\D
 C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\refint\GroupAssignment1.dll
 C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.pdb
 C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\ref\GroupAssignment1.dll
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\bin\Debug\net8.0\GroupAssignment1.exe
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\bin\Debug\net8.0\GroupAssignment1.runtimeconfig.json
+C:\Users\Abhaya Mani Paudel\source\repos\GroupAssignment1\GroupAssignment1\obj\Debug\net8.0\GroupAssignment1.genruntimeconfig.cache

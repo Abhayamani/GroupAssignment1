@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{98CD1B15-FFD5-448D-9D2A-A8994EE0F185}|ProductTest\\ProductTest.csproj|solutionrelative:producttest\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F790368-D889-4D9A-9E24-4C6B473D2333}|GroupAssignment1\\GroupAssignment1.csproj|c:\\users\\abhaya mani paudel\\source\\repos\\groupassignment1\\groupassignment1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F790368-D889-4D9A-9E24-4C6B473D2333}|GroupAssignment1\\GroupAssignment1.csproj|solutionrelative:groupassignment1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F790368-D889-4D9A-9E24-4C6B473D2333}|GroupAssignment1\\GroupAssignment1.csproj|c:\\users\\abhaya mani paudel\\source\\repos\\groupassignment1\\groupassignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F790368-D889-4D9A-9E24-4C6B473D2333}|GroupAssignment1\\GroupAssignment1.csproj|solutionrelative:groupassignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F790368-D889-4D9A-9E24-4C6B473D2333}|GroupAssignment1\\GroupAssignment1.csproj|c:\\users\\abhaya mani paudel\\source\\repos\\groupassignment1\\groupassignment1\\groupassignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3F790368-D889-4D9A-9E24-4C6B473D2333}|GroupAssignment1\\GroupAssignment1.csproj|solutionrelative:groupassignment1\\groupassignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -36,44 +28,14 @@
               "RelativeDocumentMoniker": "ProductTest\\ProductTest.cs",
               "ToolTip": "C:\\Users\\Abhaya Mani Paudel\\source\\repos\\GroupAssignment1\\ProductTest\\ProductTest.cs",
               "RelativeToolTip": "ProductTest\\ProductTest.cs",
-              "ViewState": "AQIAABoAAAAAzMzMzMwEwDAAAAA6AAAA",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAIwP8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:25:54.238Z",
+              "WhenOpened": "2024-06-03T12:30:00.876Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Abhaya Mani Paudel\\source\\repos\\GroupAssignment1\\GroupAssignment1\\Product.cs",
-              "RelativeDocumentMoniker": "GroupAssignment1\\Product.cs",
-              "ToolTip": "C:\\Users\\Abhaya Mani Paudel\\source\\repos\\GroupAssignment1\\GroupAssignment1\\Product.cs",
-              "RelativeToolTip": "GroupAssignment1\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T12:15:00.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Abhaya Mani Paudel\\source\\repos\\GroupAssignment1\\GroupAssignment1\\Program.cs",
-              "RelativeDocumentMoniker": "GroupAssignment1\\Program.cs",
-              "ToolTip": "C:\\Users\\Abhaya Mani Paudel\\source\\repos\\GroupAssignment1\\GroupAssignment1\\Program.cs",
-              "RelativeToolTip": "GroupAssignment1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T04:00:12.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "GroupAssignment1.csproj",
               "DocumentMoniker": "C:\\Users\\Abhaya Mani Paudel\\source\\repos\\GroupAssignment1\\GroupAssignment1\\GroupAssignment1.csproj",
               "RelativeDocumentMoniker": "GroupAssignment1\\GroupAssignment1.csproj",
